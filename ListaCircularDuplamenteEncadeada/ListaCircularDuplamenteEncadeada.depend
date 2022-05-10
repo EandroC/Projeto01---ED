@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1614373764 source:/home/eandro/Documentos/2020.2/AtividadesED/AP1/ListaCircularDuplamenteEncadeada/List.cpp
+	<iostream>
+	<climits>
+	"List.h"
+
+1614388747 source:/home/eandro/Documentos/2020.2/AtividadesED/AP1/ListaCircularDuplamenteEncadeada/main.cpp
+	<iostream>
+	<climits>
+	<vector>
+	"List.h"
+	<sstream>
+	<string>
+
+1614381413 /home/eandro/Documentos/2020.2/AtividadesED/AP1/ListaCircularDuplamenteEncadeada/List.h
+
+1614389168 source:/home/eandro/Documentos/2020.2/AtividadesED/AP2/ListaCircularDuplamenteEncadeada/List.cpp
+	<iostream>
+	<climits>
+	"List.h"
+
+1614381413 /home/eandro/Documentos/2020.2/AtividadesED/AP2/ListaCircularDuplamenteEncadeada/List.h
+
+1614388747 source:/home/eandro/Documentos/2020.2/AtividadesED/AP2/ListaCircularDuplamenteEncadeada/main.cpp
+	<iostream>
+	<climits>
+	<vector>
+	"List.h"
+	<sstream>
+	<string>
+
